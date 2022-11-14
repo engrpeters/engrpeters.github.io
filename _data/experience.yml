@@ -1,14 +1,19 @@
 - company: The Neighborhood
   url: https://www.theneighborhood.com.ua/
-  time: Dec 2017 - Present
-  position: Founder/ Director
+  time: Dec 2021 - March 2022
+  position: Lead Web Developer
+
+- company: The Neighborhood
+  url: https://www.theneighborhood.com.ua/
+  time: October 2018 - December 2021
+  position: Full Stack Developer
 
 - company: Go Friends
-  url: https://gofriends.pro/
-  time: Jan 2017 - April 2018
+  url: https://gofriends.com.ua/
+  time: March 2018 - April 2018
   position: Front-End Developer
 
 - company: Learning to Code
-  url: https://web.northeastern.edu/scout/
+  url: https://codeshool.com/
   time: Aug 2015 - Dec 2017
   position: Coder
