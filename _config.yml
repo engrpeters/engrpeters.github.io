@@ -4,6 +4,7 @@ title: Oluwafemi Peters| Full-Stack JavaScript Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://engrpeters.github.io/
 baseurl: ''
+domain: engrpeters.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com  
 email: femipeters08@yahoo.com
 cover: https://engrpeters.github.io/img/og.png
 logo: https://engrpeters.github.io/img/emojis/technologist.png
