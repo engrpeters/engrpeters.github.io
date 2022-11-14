@@ -44,7 +44,7 @@
   url: https://github.com/engrpeters
   code: https://github.com/engrpeters
   description: A socket.io roomed based chat version of skype . Used Peer.js for Audio/Video call video WebRTC . A pet project was working on in 2016 . Lost the codebase . Maybe would rebuld
-   used:
+  used:
     - thing: Node.js
     - thing: HTML/CSS
     - thing: WebRTC
