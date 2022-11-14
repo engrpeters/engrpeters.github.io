@@ -1,0 +1,51 @@
+- name: User Letter
+  url: https://github.com/engrpeters/letter
+  code: https://github.com/engrpeters/letter
+  description: Just a random project working around fetch API and typicode placeholder API.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: Node.js
+    - thing: fetch
+    - thing: Typicode Placeholder API
+
+- name: Mediumish Theme
+  url: https://github.com/engrpeters/mediumish
+  code: https://github.com/engrpeters/mediumish
+  description: A wordpress customized wordpress theme that looks like Medium. Theme written from scratch using Wordpress custom theme guidelines and already made HTML Template.
+  used:
+    - thing: Wordpress
+    - thing: PHP
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+
+- name: Golden Eggs Admin
+  url: https://play.google.com/store/apps/details?id=com.AppGoldenEggs&hl=en_US&gl=US
+  code: https://github.com/engrpeters/golden-eggs-admin
+  description: My first commercial project, I was with <a href="https://gofriends.com.ua" target="_blank"> GoFriends </a> . A Bootstrap themed admin panel for a game called Golden Eggs. <a class="underline-link" href="https://play.google.com/store/apps/details?id=com.AppGoldenEggs&hl=en_US&gl=US" target="_blank">Golden Eggs</a> is a mobile game where users manage a chicken farm and can make real money. Administrators are able to view player details, view player farm ,check deposits and withdrawals, delete and edit players ,view overall status of the game and general admin function. 
+  used:
+    - thing: REST API
+    - thing: Bootstrap
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+
+- name: Issues and Feedback
+  url: https://engrpeters.github.io/engrpeters/issues-feedback/
+  code: https://github.com/engrpeters/issues-feedback
+  description: Scaffold of a platform for logding issues accross The Neighborhood Apps, also allows users to give feedback 
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+
+- name: Nype
+  url: https://github.com/engrpeters
+  code: https://github.com/engrpeters
+  description: A socket.io roomed based chat version of skype . Used Peer.js for Audio/Video call video WebRTC . A pet project was working on in 2016 . Lost the codebase . Maybe would rebuld
+   used:
+    - thing: Node.js
+    - thing: HTML/CSS
+    - thing: WebRTC
+    - thing: Socket.io

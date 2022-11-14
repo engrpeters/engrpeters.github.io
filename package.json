@@ -1,0 +1,28 @@
+{
+  "name": "engrpeters.dev",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engrpeters/engrpeters.github.io"
+  },
+  "homepage": "https://github.com/bchiang7/engrpeters.github.io",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp serve --watch",
+    "build": "gulp build"
+  },
+  "author": "Oluwafemi Peters",
+
+  "devDependencies": {
+    "@nuscout/eslint-config": "^0.2.1",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-imagemin": "6.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "3.0.2"
+  }
+}

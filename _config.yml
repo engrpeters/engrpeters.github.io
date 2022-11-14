@@ -1,0 +1,45 @@
+# Site settings
+name: Oluwafemi Peters
+title: Oluwafemi Peters| Full-Stack JavaScript Engineer
+description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+url: https://engrpeters.github.io/
+baseurl: ''
+email: femipeters08@yahoo.com
+cover: https://engrpeters.github.io/img/og.png
+logo: https://engrpeters.github.io/img/emojis/technologist.png
+resume: https://engrpeters.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:femipeters08@yahoo.com
+  - title: twitter
+    url: https://twitter.com/engrpeters
+  - title: instagram
+    url: https://instagram.com/engrpeters
+  - title: codepen
+    url: http://codepen.io/engrpeters
+  - title: github
+    url: https://github.com/engrpeters
+  - title: linkedin
+    url: https://www.linkedin.com/in/engrpeters
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

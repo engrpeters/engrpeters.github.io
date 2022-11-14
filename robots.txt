@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://engrpeters.github.io/sitemap.xml
