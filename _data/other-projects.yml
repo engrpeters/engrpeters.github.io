@@ -49,3 +49,4 @@
     - thing: HTML/CSS
     - thing: WebRTC
     - thing: Socket.io
+    - thing: Peer.js
